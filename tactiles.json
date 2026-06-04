@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Dukurs",
+        "email": "adriansgamer892@gmail.com",
+        "password": "$2y$10$BRYBFC\/a5qAP3iWkDA\/QTeWqY816r3PMpOuiSnfmkZ\/4UqqJaCAua",
+        "highscore": 12
+    },
+    {
+        "name": "Cukurs",
+        "email": "adriansgamer892@gmail.com",
+        "password": "$2y$10$UTKYiyBpioS2sYwck7FoXeNOq4sla5h0TKahrb32wGkJ3jb8fty3C",
+        "highscore": 9
+    },
+    {
+        "name": "Janis",
+        "email": "test.gmail@mega.com",
+        "password": "$2y$10$DvEWU107CRYhhqyvHcN\/p.fQB2qxAOjxw4ezTJFJMBHXHPIzzFUXy",
+        "highscore": 0
+    },
+    {
+        "name": "Mega",
+        "email": "megaandrius@gmail.com",
+        "password": "$2y$10$Q2GgTKqsYCOy\/Ujhz8KmDuYr5rIiOD6pRW4hypv0mnyWDSIRx2qe2",
+        "highscore": 0
+    },
+    {
+        "name": "Dukurss",
+        "email": "adriansgamer892@gmail.com",
+        "password": "$2y$10$P38778IByMrX9O3KfOuXYOKpBz.iGGxvpcT57DZanxuDhHU\/XO8Ua",
+        "highscore": 9
+    },
+    {
+        "name": "Gustavs \u010da\u010d\u0161",
+        "email": "gustavsgejs@gmail.com",
+        "password": "$2y$10$MNpKI1SR0Ddzp8P.O0Chx.JlmYSvrkS4KmLji7cAnV10JFEJhpaQS",
+        "highscore": 2
+    }
+]
